@@ -1,0 +1,15 @@
+<form action="https://perfectmoney.com/api/step1.asp" method="POST">
+<input type="hidden" name="PAYEE_ACCOUNT" value="U48044614">
+<input type="hidden" name="PAYEE_NAME" value="e-Follows Agency">
+<input type="hidden" name="PAYMENT_ID" value="e-Follows Deposit">
+<input type="hidden" name="PAYMENT_AMOUNT" value="1">
+<input type="hidden" name="PAYMENT_UNITS" value="USD">
+<input type="hidden" name="STATUS_URL" value="gemma.ytchannel@gmail.com">
+<input type="hidden" name="PAYMENT_URL" value="https://form.jotform.com/241574574574062">
+<input type="hidden" name="PAYMENT_URL_METHOD" value="LINK">
+<input type="hidden" name="NOPAYMENT_URL" value="https://form.jotform.com/241574771836567">
+<input type="hidden" name="NOPAYMENT_URL_METHOD" value="LINK">
+<input type="hidden" name="SUGGESTED_MEMO" value="Pay Now!">
+<input type="hidden" name="BAGGAGE_FIELDS" value="">
+<input type="submit" name="PAYMENT_METHOD" value="Pay Now!">
+</form>
